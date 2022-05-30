@@ -1,0 +1,29 @@
+composer require laravel/ui
+php artisan ui vue --auth
+npm install
+npm run dev
+npm update
+
+create schema laravel;
+php artisan migrate:fresh
+php artisan migrate
+php artisan make:model invoices -mcr
+php artisan make:migration create_participants_table
+php artisan make:migration add_last_message_id_to_conversations_table
+
+
+php artisan make:request StoreGrades
+
+composer self-update
+
+php artisan make:export InvoicesExport --model=invoices
+
+
+
+https://www.codecheef.org/article/laravel-spatie-roles-and-permissions-tutorial-from-scratch
+*************\
+spatie		\
+*****************
+composer require spatie/laravel-translatable:*
+
+php artisan vendor:publish --provider="Spatie\Translatable\TranslatableServiceProvider"

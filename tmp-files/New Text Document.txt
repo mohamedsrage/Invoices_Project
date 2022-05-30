@@ -1,0 +1,21 @@
+https://github.com/mcamara/laravel-localization
+https://xmind.net/
+https://laravelsd.com/
+https://github.com/spatie/laravel-translatable
+https://github.com/yoeunes/toastr
+https://github.com/codeZero-be/laravel-unique-translation
+https://docs.laravel-excel.com/3.1/getting-started/installation.html
+
+https://laratrust.santigarcor.me/
+
+https://spatie.be/docs/laravel-permission/v3/installation-laravel
+
+https://laravel-news.com/category/packages
+
+https://github.com/fxcosta/laravel-chartjs
+
+https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html
+
+https://www.itsolutionstuff.com/post/laravel-6-notification-tutorial-create-notification-with-laravel-6example.html
+
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="config"
